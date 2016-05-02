@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./oeuvresdedelill02tissgoog_0006.png"; bbox 0 0 742 1204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 141 431 579 580">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 141 431 579 580">
+     <span class='ocr_line' id='line_1_1' title="bbox 254 431 557 478; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 254 445 466 478; x_wconf 81' lang='lat' dir='ltr'><strong>OEUVRES</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 555 431 557 434; x_wconf 81' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 141 533 579 580; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 141 534 231 580; x_wconf 91' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 269 533 579 580; x_wconf 86' lang='lat' dir='ltr'><strong>DELILLE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 301 631 414 647">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 301 631 414 647">
+     <span class='ocr_line' id='line_1_3' title="bbox 301 631 414 647; baseline -0.009 0"><span class='ocrx_word' id='word_1_5' title='bbox 301 631 414 647; x_wconf 79' lang='lat' dir='ltr'>TTTTTTT</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
